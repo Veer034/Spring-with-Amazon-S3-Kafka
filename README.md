@@ -29,7 +29,7 @@ Data stored in S3 :<br>
     timestamp, then get operation will be performed based on key. After that data will be produced to another kafka topic"aws.write".
     
 Data read from S3 and put into kafka :<br>
-<img src="images/Kafka listner .png" width=800 height=400><br/>
+<img src="images/Kafka listener.png" width=800 height=400><br/>
 
 
 ### Note : 
