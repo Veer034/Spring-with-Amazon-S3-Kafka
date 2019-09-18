@@ -1,4 +1,4 @@
-# Spring-with-Amzon-S3-Kafka
+# Spring-with-Amazon-S3-Kafka
 This project contains basic operation of producing events in kafka topic, Read the value from topic and store in amazon S3, Then provide api to fetch the data back from S3 bucket and push into another kafka topic.
 
 This project contains code regarding stream,join of data coming from various 
